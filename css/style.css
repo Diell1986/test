@@ -1,0 +1,12 @@
+body {
+  background-color: red;
+}
+
+body header {
+  background-color: rebeccapurple;
+  font-size: 30px;
+}
+
+body div {
+  background-color: saddlebrown;
+}
